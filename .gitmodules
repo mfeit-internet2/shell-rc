@@ -1,0 +1,8 @@
+[submodule "shellrc"]
+	path = shellrc
+	url = https://github.com/markfeit/shellrc
+	branch = master
+[submodule "shellrc-general"]
+	path = shellrc-general
+	url = https://github.com/markfeit/shellrc-general
+	branch = master
