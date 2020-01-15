@@ -15,3 +15,5 @@ alias psr='pscheduler result --archivings --diags $1 | less -F'
 alias pss='pscheduler task simplestream --dest dev$1'
 alias pst='pscheduler task throughput --duration PT5S --dest $1'
 alias psw='pscheduler watch'
+
+alias gclp='git clone git@github.com:perfsonar/pscheduler'
