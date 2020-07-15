@@ -16,4 +16,8 @@ alias pss 'pscheduler task simplestream --dest dev\!:1'
 alias pst 'pscheduler task throughput --duration PT5S --dest \!:1'
 alias psw 'pscheduler watch'
 
+alias pthi2 'pscheduler task throughput --dest tb-el7-prod.ps.dev.internet2.edu'
+alias pthes 'pscheduler task throughput --dest ps-dev-el7-1.es.net'
+
+
 alias gclp 'git clone git@github.com:perfsonar/pscheduler'
